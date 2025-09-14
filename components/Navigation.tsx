@@ -63,7 +63,11 @@ export function Navigation() {
             <Button variant="ghost" size="sm">
               Log in
             </Button>
-            <Button size="sm" className="bg-sky-600 hover:bg-sky-700">
+            <Button
+              size="sm"
+              className="bg-sky-600 hover:bg-sky-700"
+              onClick={() => window.location.href = '/get-started'}
+            >
               Get started free
             </Button>
           </div>
@@ -115,7 +119,10 @@ export function Navigation() {
                 <Button variant="ghost" className="w-full justify-start">
                   Log in
                 </Button>
-                <Button className="w-full bg-sky-600 hover:bg-sky-700">
+                <Button
+                  className="w-full bg-sky-600 hover:bg-sky-700"
+                  onClick={() => window.location.href = '/get-started'}
+                >
                   Get started free
                 </Button>
               </div>

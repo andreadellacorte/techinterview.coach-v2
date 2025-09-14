@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Stripe id",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "Product Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Customer",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Email (from Customer)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Active",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Period Start",
+    "type": "date"
+  },
+  {
+    "name": "Period Ends",
+    "type": "date"
+  },
+  {
+    "name": "Subscription Length",
+    "type": "formula"
+  },
+  {
+    "name": "Notes",
+    "type": "multilineText"
+  }
+]

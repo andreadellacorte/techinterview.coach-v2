@@ -1,0 +1,38 @@
+[
+  {
+    "name": "utm_uuid",
+    "type": "formula"
+  },
+  {
+    "name": "utm_campaign",
+    "type": "singleLineText"
+  },
+  {
+    "name": "utm_medium",
+    "type": "singleLineText"
+  },
+  {
+    "name": "utm_source",
+    "type": "singleLineText"
+  },
+  {
+    "name": "utm_term",
+    "type": "singleLineText"
+  },
+  {
+    "name": "utm_content",
+    "type": "singleLineText"
+  },
+  {
+    "name": "created_at",
+    "type": "createdTime"
+  },
+  {
+    "name": "updated_at",
+    "type": "lastModifiedTime"
+  },
+  {
+    "name": "Sessions",
+    "type": "multipleRecordLinks"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "stripe_product_id",
+    "type": "singleLineText"
+  },
+  {
+    "name": "stripe_price_id",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Product Type",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Product Name",
+    "type": "formula"
+  },
+  {
+    "name": "Credits per Purchase",
+    "type": "number"
+  },
+  {
+    "name": "Schedule",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Coach",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Credits per Session",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Version",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Notes",
+    "type": "multilineText"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "Last Modified",
+    "type": "lastModifiedTime"
+  }
+]

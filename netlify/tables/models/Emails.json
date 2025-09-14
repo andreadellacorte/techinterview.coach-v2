@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ID",
+    "type": "formula"
+  },
+  {
+    "name": "Event Key",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Customer ID",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Customer Email",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Customer Full Name",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Total Credits Purchased",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Parameters",
+    "type": "multilineText"
+  },
+  {
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "Last Modified",
+    "type": "lastModifiedTime"
+  }
+]

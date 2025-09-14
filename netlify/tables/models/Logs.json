@@ -1,0 +1,38 @@
+[
+  {
+    "name": "log_uuid",
+    "type": "formula"
+  },
+  {
+    "name": "requestId",
+    "type": "formula"
+  },
+  {
+    "name": "Created",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Level",
+    "type": "singleSelect"
+  },
+  {
+    "name": "function",
+    "type": "formula"
+  },
+  {
+    "name": "Message",
+    "type": "multilineText"
+  },
+  {
+    "name": "Metadata",
+    "type": "multilineText"
+  },
+  {
+    "name": "Context",
+    "type": "multilineText"
+  },
+  {
+    "name": "Created DB",
+    "type": "createdTime"
+  }
+]

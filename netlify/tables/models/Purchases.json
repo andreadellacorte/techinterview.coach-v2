@@ -1,0 +1,66 @@
+[
+  {
+    "name": "sr no",
+    "type": "autoNumber"
+  },
+  {
+    "name": "stripe_id",
+    "type": "singleLineText"
+  },
+  {
+    "name": "link",
+    "type": "url"
+  },
+  {
+    "name": "Customer Name",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Product",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Purchased Sessions",
+    "type": "number"
+  },
+  {
+    "name": "Purchase Date",
+    "type": "date"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "EUR Purchase Price",
+    "type": "formula"
+  },
+  {
+    "name": "To EUR Exchange Rate",
+    "type": "number"
+  },
+  {
+    "name": "Original Purchase Price",
+    "type": "number"
+  },
+  {
+    "name": "Price Currency",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Notes",
+    "type": "multilineText"
+  },
+  {
+    "name": "Name (from name)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Events",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Events 2",
+    "type": "multipleRecordLinks"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Sr no",
+    "type": "autoNumber"
+  },
+  {
+    "name": "First Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Last Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Referee",
+    "type": "email"
+  },
+  {
+    "name": "Referrer",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Discount given to referrer",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Discount given to referred",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  }
+]

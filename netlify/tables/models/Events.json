@@ -1,0 +1,70 @@
+[
+  {
+    "name": "ID",
+    "type": "formula"
+  },
+  {
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Description",
+    "type": "multilineText"
+  },
+  {
+    "name": "Calendar ID",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Debit ID",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Negative Credits",
+    "type": "number"
+  },
+  {
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Customer Name (from Debit ID)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Email (from Customer Name) (from Debit ID)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Coach (lookup) (from Debit ID)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Start Time (Pretty) (from Debit ID)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "End Time (Pretty) (from Debit ID)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Purchase ID",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Purchase Date (from Purchase ID)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Notes",
+    "type": "multilineText"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "Last Modified",
+    "type": "lastModifiedTime"
+  }
+]

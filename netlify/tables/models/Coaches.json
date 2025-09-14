@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Email",
+    "type": "email"
+  },
+  {
+    "name": "Name",
+    "type": "formula"
+  },
+  {
+    "name": "key",
+    "type": "singleLineText"
+  },
+  {
+    "name": "First Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Last Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "User Group",
+    "type": "multipleSelects"
+  },
+  {
+    "name": "Credits per Session",
+    "type": "number"
+  },
+  {
+    "name": "Outstanding Payout",
+    "type": "formula"
+  },
+  {
+    "name": "Outstanding Sessions",
+    "type": "formula"
+  },
+  {
+    "name": "Outstanding Reviews",
+    "type": "formula"
+  },
+  {
+    "name": "Total Sessions",
+    "type": "rollup"
+  },
+  {
+    "name": "Paid Sessions",
+    "type": "rollup"
+  },
+  {
+    "name": "Total Reviews",
+    "type": "rollup"
+  },
+  {
+    "name": "Paid Reviews",
+    "type": "rollup"
+  },
+  {
+    "name": "Fee per session (Euro)",
+    "type": "currency"
+  },
+  {
+    "name": "Fee per reviews (Euro)",
+    "type": "currency"
+  },
+  {
+    "name": "Debits",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Reviews",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Payouts",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "Last Modified",
+    "type": "lastModifiedTime"
+  },
+  {
+    "name": "Notes",
+    "type": "multilineText"
+  },
+  {
+    "name": "Products",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "CalCom Api Key",
+    "type": "singleLineText"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Number",
+    "type": "autoNumber"
+  },
+  {
+    "name": "Customer",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Full Name (from Customer)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Review text",
+    "type": "multilineText"
+  },
+  {
+    "name": "Date",
+    "type": "date"
+  },
+  {
+    "name": "Rating",
+    "type": "number"
+  },
+  {
+    "name": "Coach",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Fee per reviews (Euro) (from Lookup)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Customers",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "Last Modified",
+    "type": "lastModifiedTime"
+  }
+]

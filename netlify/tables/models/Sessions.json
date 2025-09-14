@@ -1,0 +1,62 @@
+[
+  {
+    "name": "session_uuid",
+    "type": "formula"
+  },
+  {
+    "name": "created_at",
+    "type": "createdTime"
+  },
+  {
+    "name": "expires_at",
+    "type": "dateTime"
+  },
+  {
+    "name": "customer",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "utm_uuid",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "user_agent",
+    "type": "singleLineText"
+  },
+  {
+    "name": "platform",
+    "type": "singleLineText"
+  },
+  {
+    "name": "utm_campaign",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "utm_medium",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "utm_source",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "utm_term",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "utm_content",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "referrer",
+    "type": "singleLineText"
+  },
+  {
+    "name": "country",
+    "type": "singleLineText"
+  },
+  {
+    "name": "city",
+    "type": "singleLineText"
+  }
+]

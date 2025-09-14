@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Email",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Full Name",
+    "type": "formula"
+  },
+  {
+    "name": "First Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Last Name",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Phone",
+    "type": "phoneNumber"
+  },
+  {
+    "name": "Whatsapp Link",
+    "type": "formula"
+  },
+  {
+    "name": "User Group",
+    "type": "multipleSelects"
+  },
+  {
+    "name": "LinkedIn",
+    "type": "url"
+  },
+  {
+    "name": "Notes",
+    "type": "multilineText"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "Last Modified",
+    "type": "lastModifiedTime"
+  },
+  {
+    "name": "Credit",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Total Credits Purchased",
+    "type": "rollup"
+  },
+  {
+    "name": "Total Credits Used",
+    "type": "rollup"
+  },
+  {
+    "name": "Available Credits",
+    "type": "formula"
+  },
+  {
+    "name": "Total Spend",
+    "type": "rollup"
+  },
+  {
+    "name": "Total Revenue",
+    "type": "rollup"
+  },
+  {
+    "name": "Total Cost",
+    "type": "rollup"
+  },
+  {
+    "name": "Total Profit",
+    "type": "formula"
+  },
+  {
+    "name": "Debits",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Reviews",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "First Consultation",
+    "type": "rollup"
+  },
+  {
+    "name": "Last Consultation",
+    "type": "rollup"
+  },
+  {
+    "name": "Last Resume Review",
+    "type": "rollup"
+  },
+  {
+    "name": "Last Resume Rewrite",
+    "type": "rollup"
+  },
+  {
+    "name": "Last Paid Session",
+    "type": "rollup"
+  },
+  {
+    "name": "Last Review",
+    "type": "rollup"
+  },
+  {
+    "name": "Last Credit Purchase",
+    "type": "rollup"
+  },
+  {
+    "name": "Trello link (from Debits)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Customer Type",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Subscriptions",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Subscription Product",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Subscription Active",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Subscription Period End",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Subscription Length",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Emails",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Sessions",
+    "type": "multipleRecordLinks"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ID",
+    "type": "formula"
+  },
+  {
+    "name": "External ID",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Customer Name",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Customer Email",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Coach (lookup)",
+    "type": "multipleRecordLinks"
+  },
+  {
+    "name": "Type",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Payout Sessions",
+    "type": "number"
+  },
+  {
+    "name": "Used Sessions",
+    "type": "number"
+  },
+  {
+    "name": "Start Time (Pretty)",
+    "type": "dateTime"
+  },
+  {
+    "name": "End Time (Pretty)",
+    "type": "dateTime"
+  },
+  {
+    "name": "Date",
+    "type": "formula"
+  },
+  {
+    "name": "Coach Fee",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Session Fee",
+    "type": "formula"
+  },
+  {
+    "name": "Trello link",
+    "type": "url"
+  },
+  {
+    "name": "Month",
+    "type": "formula"
+  },
+  {
+    "name": "Notes",
+    "type": "multilineText"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  },
+  {
+    "name": "Last Modified",
+    "type": "lastModifiedTime"
+  },
+  {
+    "name": "Name (from name)",
+    "type": "multipleLookupValues"
+  },
+  {
+    "name": "Coach",
+    "type": "singleSelect"
+  },
+  {
+    "name": "Events",
+    "type": "multipleRecordLinks"
+  }
+]

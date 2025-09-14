@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Id",
+    "type": "autoNumber"
+  },
+  {
+    "name": "Question",
+    "type": "singleLineText"
+  },
+  {
+    "name": "Created",
+    "type": "createdTime"
+  }
+]
