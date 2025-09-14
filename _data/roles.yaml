@@ -1,0 +1,87 @@
+certified-coach:
+  emoji: 🎓
+  label: Certified Coach
+
+chartered-engineer:
+  emoji: 🏗️
+  label: Chartered Engineer
+
+cybersecurity-specialist:
+  emoji: 🔐
+  label: Cybersecurity Specialist
+
+data-analyst:
+  emoji: 📊
+  label: Data Analyst
+
+data-engineer:
+  emoji: 🏗️
+  label: Data Engineer
+
+data-scientist:
+  emoji: 🧪
+  label: Data Scientist
+
+engineering-manager:
+  emoji: 🏢
+  label: Engineering Manager
+
+entrepreneurship:
+  emoji: 💡
+  label: Entrepreneurship
+
+exec-director-staff-lead-senior:
+  emoji: 🏆
+  label: Exec/Director/Staff/Lead/Senior
+
+game-development:
+  emoji: 🎮
+  label: Game Development
+
+infosec-operations-manager:
+  emoji: 🔒
+  label: InfoSec Operations Manager
+
+mechanical-engineer:
+  emoji: ⚙️
+  label: Mechanical Engineer
+
+product-manager:
+  emoji: 📦
+  label: Product Manager
+
+product-marketing-manager:
+  emoji: 📢
+  label: Product Marketing Manager
+
+program-manager:
+  emoji: 🗂️
+  label: Program Manager
+
+python-programmer:
+  emoji: 🐍
+  label: Python Programmer
+
+quality-assurance:
+  emoji: ✅
+  label: Quality Assurance
+
+simulation-engineer:
+  emoji: 🏎️
+  label: Simulation Engineer
+
+software-architect:
+  emoji: 🏛️
+  label: Software Architect
+
+software-engineer:
+  emoji: 💻
+  label: Software Engineer
+
+technical-lead:
+  emoji: 👨‍💻
+  label: Technical Lead
+
+technical-writer:
+  emoji: ✍️
+  label: Technical Writer

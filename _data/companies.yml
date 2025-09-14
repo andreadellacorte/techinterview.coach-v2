@@ -1,0 +1,265 @@
+group-digits:
+  name: "#"
+  companies:
+    10x-banking:
+      name: 10x Banking
+      image: /companies/10x-banking.jpeg
+
+group-a:
+  name: "A"
+  companies:
+    accenture:
+      name: Accenture
+      image: /companies/accenture.jpeg
+
+    adobe:
+      name: Adobe
+      image: /companies/adobe.jpeg
+
+    altair:
+      name: Altair Engineering
+      image: /companies/altair.jpeg
+
+    amazon:
+      name: Amazon
+      image: /companies/amazon.jpg
+
+    anglo-american:
+      name: Anglo American
+      image: /companies/anglo-american.png
+
+    atla:
+      name: Atla
+      image: /companies/atla.jpeg
+
+    att:
+      name: AT&T
+      image: /companies/att.jpeg
+
+    aws:
+      name: Amazon Web Services
+      image: /companies/aws.jpeg
+
+group-b:
+  name: "B"
+  companies:
+    back:
+      name: Back
+      image: /companies/back.png
+
+    babbel:
+      name: Babbel
+      image: /companies/babbel.png
+
+group-c:
+  name: "C"
+  companies:
+    chewy:
+      name: Chewy
+      image: /companies/chewy.jpg
+
+    cisco:
+      name: Cisco
+      image: /companies/cisco.jpeg
+
+    citrix:
+      name: Citrix
+      image: /companies/citrix.jpeg
+
+    couchbase:
+      name: Couchbase
+      image: /companies/couchbase.jpg
+
+    curve:
+      name: Curve
+      image: /companies/curve.jpg
+
+group-d:
+  name: "D"
+  companies:
+    databricks:
+      name: Databricks
+      image: /companies/databricks.jpg
+
+    deliveroo:
+      name: Deliveroo
+      image: /companies/deliveroo.png
+
+group-e:
+  name: "E"
+  companies:
+    ernstandyoung:
+      name: Ernst & Young
+      image: /companies/ernstandyoung.jpg
+
+group-f:
+  name: "F"
+  companies:
+    ford:
+      name: Ford
+      image: /companies/ford.jpg
+
+group-g:
+  name: "G"
+  companies:
+    google:
+      name: Google
+      image: /companies/google.jpg
+
+group-h:
+  name: "H"
+  companies:
+    headfirstgroup:
+      name: Head First Group
+      image: /companies/headfirstgroup.jpeg
+
+group-i:
+  name: "I"
+  companies:
+    ibm:
+      name: IBM
+      image: /companies/ibm.png
+
+    improbable:
+      name: Improbable Worlds
+      image: /companies/improbable.jpg
+
+    imply:
+      name: Imply.io
+      image: /companies/imply.jpeg
+
+group-j:
+  name: "J"
+  companies:
+    jagex:
+      name: Jagex
+      image: /companies/jagex.jpg
+
+group-m:
+  name: "M"
+  companies:
+    mandg:
+      name: M&G
+      image: /companies/mandg.jpeg
+
+    microsoft:
+      name: Microsoft
+      image: /companies/microsoft.jpg
+
+    moneyfarm:
+      name: Moneyfarm
+      image: /companies/moneyfarm.jpeg
+
+    moogsoft:
+      name: Moogsoft
+      image: /companies/moogsoft.jpeg
+
+group-n:
+  name: "N"
+  companies:
+    napster:
+      name: Napster
+      image: /companies/napster.jpg
+    nokia:
+      name: Nokia
+      image: /companies/nokia.jpeg
+
+group-l:
+  name: "L"
+  companies:
+    lastpass:
+      name: LastPass
+      image: /companies/lastpass.jpeg
+
+    lego-group:
+      name: Lego Group
+      image: /companies/lego.jpeg
+
+    lgsoft:
+      name: LG Soft
+      image: /companies/lgsoft.png
+
+    localstack:
+      name: LocalStack
+      image: /companies/localstack.jpeg
+
+group-o:
+  name: "O"
+  companies:
+    oracle:
+      name: Oracle
+      image: /companies/oracle.jpeg
+
+group-p:
+  name: "P"
+  companies:
+    paytm:
+      name: Paytm
+      image: /companies/paytm.png
+
+group-s:
+  name: "S"
+  companies:
+    servicenow:
+      name: ServiceNow
+      image: /companies/servicenow.png
+
+    skyscanner:
+      name: Skyscanner
+      image: /companies/skyscanner.jpg
+
+    snyk:
+      name: Snyk
+      image: /companies/snyk.jpg
+
+    spotify:
+      name: Spotify
+      image: /companies/spotify.png
+
+    square-enix:
+      name: Square Enix
+      image: /companies/square-enix.jpeg
+
+    soundcloud:
+      name: SoundCloud
+      image: /companies/soundcloud.png
+
+group-r:
+  name: "R"
+  companies:
+    rover:
+      name: Rover.com
+      image: /companies/rover.jpg
+
+group-t:
+  name: "T"
+  companies:
+    tableau:
+      name: Tableau
+      image: /companies/tableau.jpg
+
+    t-mobile:
+      name: T-Mobile
+      image: /companies/t-mobile.jpeg
+
+    trainline:
+      name: Trainline
+      image: /companies/trainline.jpeg
+
+    transport-for-london:
+      name: Transport for London
+      image: /companies/tfl.jpeg
+
+group-u:
+  name: "U"
+  companies:
+    uber:
+      name: Uber
+      image: /companies/uber.jpg
+
+group-v:
+  name: "V"
+  companies:
+    vmware:
+      name: VMware
+      image: /companies/vmware.jpg

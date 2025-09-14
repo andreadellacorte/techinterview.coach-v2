@@ -1,0 +1,103 @@
+advancement-coaching:
+  emoji: 🚀
+  label: Advancement Coaching
+
+agile-methodologies:
+  emoji: 🔄
+  label: Agile Methodologies
+
+algorithms:
+  emoji: 🧠
+  label: Algorithms
+
+behavioural-interview:
+  emoji: 💬
+  label: Behavioural Interview
+
+business-launch:
+  emoji: 🚀
+  label: Business Launch
+
+career-coaching:
+  emoji: 💼
+  label: Career Coaching
+
+case-study:
+  emoji: 🔬
+  label: Case Study
+
+coding-interview:
+  emoji: 💻
+  label: Coding Interview
+
+contracting-roles:
+  emoji: 📜
+  label: Contracting Roles
+
+cybersecurity:
+  emoji: 🔒
+  label: Cybersecurity
+
+data-engineering:
+  emoji: 📊
+  label: Data Engineering
+
+data-science:
+  emoji: 📈
+  label: Data Science
+
+digital-forensics:
+  emoji: 🔍
+  label: Digital Forensics
+
+games-industry:
+  emoji: 🎮
+  label: Games Industry
+
+multiplayer-testing:
+  emoji: 🎲
+  label: Multiplayer Testing
+
+incident-response:
+  emoji: 🚨
+  label: Incident Response
+
+leadership-coaching:
+  emoji: 🏅
+  label: Leadership Coaching
+
+mechanical-engineering:
+  emoji: 🛠️
+  label: Mechanical Engineering
+
+negotiation:
+  emoji: 💰
+  label: Negotiation
+
+resume-review:
+  emoji: 📝
+  label: Resume Review
+
+product-interview:
+  emoji: 📦
+  label: Product Interview
+
+product-strategy:
+  emoji: 📈
+  label: Product Strategy
+
+python:
+  emoji: 🐍
+  label: Python
+
+simulation-engineering:
+  emoji: 🎮
+  label: Simulation Engineering
+
+qa-engineering:
+  emoji: 🧪
+  label: QA Engineering
+
+system-design:
+  emoji: 🏗️
+  label: System Design

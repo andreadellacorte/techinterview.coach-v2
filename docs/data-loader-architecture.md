@@ -1,17 +1,17 @@
-# Data Loader Architecture: Jekyll → Next.js Bridge
+# Data Loader Architecture: Jekyll Data → Next.js Static Pages
 
 ## How the Data Loaders Work
 
-The data loaders create a bridge between Jekyll's YAML/Markdown data and Next.js at **build time**. Here's exactly how they work:
+The data loaders read Jekyll's YAML/Markdown data at **build time** and embed it directly into static HTML pages. Here's exactly how they work:
 
 ### 1. File System Access at Build Time
 
 ```typescript
 // Example: loadCoaches.ts
-const V1_DATA_PATH = '../../techinterview.coach/_data';
+const DATA_PATH = '_data';
 
 export function loadCoaches(): Coach[] {
-  const coachesPath = join(process.cwd(), V1_DATA_PATH, 'coaches.yml');
+  const coachesPath = join(process.cwd(), DATA_PATH, 'coaches.yml');
   const fileContents = readFileSync(coachesPath, 'utf8');
   const coaches = yaml.load(fileContents) as Coach[];
   return coaches.filter(coach => coach.status === 'active');
@@ -23,7 +23,7 @@ export function loadCoaches(): Coach[] {
 **When it runs**: During `npm run build` on Netlify
 **Where it runs**: On Netlify's build servers, NOT in the browser
 **What it does**:
-- Reads files from `../techinterview.coach/_data/*.yml`
+- Reads files from local `_data/*.yml` and `_posts/*.md`
 - Parses YAML/Markdown content
 - Transforms data into TypeScript objects
 - Embeds data directly into static HTML pages
@@ -31,7 +31,7 @@ export function loadCoaches(): Coach[] {
 ### 3. Data Flow Architecture
 
 ```
-Jekyll Repo (_data/*.yml)
+Copied Jekyll Data (_data/*.yml, _posts/*.md)
     ↓ (build time)
 Next.js Data Loaders (lib/data/*.ts)
     ↓ (SSG generation)
@@ -40,20 +40,20 @@ Static HTML with embedded data
 Netlify CDN serves static pages
 ```
 
-### 4. Monorepo Deployment Strategy
+### 4. Simple Deployment Strategy
 
 **Current Setup:**
-- Both repos cloned side by side: `techinterview.coach/` and `techinterview.coach-v2/`
-- V2 reads from V1's `_data` folder using relative paths
-- Single source of truth: Jekyll YAML files
-- No duplication or sync issues
+- Jekyll data copied directly into v2 repo (`_data/`, `_posts/`)
+- Single repo deployment - no cross-repo dependencies
+- V2 reads from local data files
+- Simple, reliable build process
 
 **On Netlify:**
 ```bash
 # Build process on Netlify
 git clone techinterview.coach-v2
 cd techinterview.coach-v2
-# Data loaders access ../techinterview.coach/_data/coaches.yml
+# Data loaders access ./data/coaches.yml (local to repo)
 npm run build  # Data embedded into static pages
 ```
 

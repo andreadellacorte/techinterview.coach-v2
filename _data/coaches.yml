@@ -1,0 +1,855 @@
+- id: daniellecheah
+  status: active
+  name: Danielle Cheah
+  roles:
+    - exec-director-staff-lead-senior
+    - engineering-manager
+    - program-manager
+  title: Senior Director Software at LEGO Group, Fractional CTPO at Atlas
+  image: /coaches/danielle.jpeg
+  specialties:
+    - leadership-coaching
+    - product-strategy
+    - career-coaching
+    - behavioural-interview
+    - advancement-coaching
+  location: 🇬🇧
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-daniellecheah/15-minute-intro
+    book: techinterviewcoach-daniellecheah/60-minute-session
+  companies:
+    - [group-s, square-enix]
+    - [group-a, amazon]
+    - [group-a, aws]
+    - [group-i, improbable]
+    - [group-l, lego-group]
+    - [group-a, atla]
+  linkedin: https://www.linkedin.com/in/daniellecheah
+  front: Tech leader bridging vision and execution—LEGO, AWS, Improbable. Mentor, strategist, and metaverse innovator
+  bio:
+    - "Danielle has a rich career spanning software engineering, video games, and metaverse technologies."
+    - "Currently serving as Senior Director of Software at LEGO Group and Fractional CTPO at Atlas, Danielle specializes in bridging business vision with technical execution."
+    - "She has held pivotal roles at Improbable, AWS, and Square Enix, leading teams to deliver innovative technologies and optimize operations."
+    - "An advocate for continuous improvement, she is certified in Six Sigma and Lean methodologies."
+    - "Danielle is passionate about mentoring, leveraging her expertise to coach leaders in navigating complex challenges."
+  long-bio:
+    - header: "Professional Journey"
+      paragraphs:
+        - "Danielle's career began in industrial R&D, where she honed her engineering fundamentals before transitioning into the video game industry. Her journey has taken her through roles at top companies such as LEGO Group, Improbable, and AWS."
+        - "Her expertise includes engineering management, strategic planning, and the development of metaverse solutions, with a track record of cost optimization and organizational transformation."
+    - header: "Mentoring and Leadership"
+      paragraphs:
+        - "Danielle has extensive experience mentoring leaders in technology, focusing on leadership development and operational excellence."
+        - "She is a recognized leader in SaaS and gaming, earning awards such as 'Top 50 Women Leaders in SaaS 2023' and contributing as a BAFTA Games Award judge."
+
+- id: sidray
+  status: active
+  name: Sid Ray
+  roles:
+    - exec-director-staff-lead-senior
+    - engineering-manager
+    - technical-lead
+    - software-architect
+  title: Principal Engineering Manager
+  image: /coaches/sidray.jpeg
+  specialties:
+    - leadership-coaching
+    - career-coaching
+    - behavioural-interview
+    - advancement-coaching
+    - agile-methodologies
+    - system-design
+    - coding-interview
+    - algorithms
+  location: 🇺🇸
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-sidray/15-minute-intro
+    book: techinterviewcoach-sidray/60-minute-session
+  companies:
+    - [group-n, nokia]
+    - [group-c, citrix]
+    - [group-c, cisco]
+    - [group-a, adobe]
+    - [group-m, microsoft]
+  linkedin: https://www.linkedin.com/in/sidray/
+  front: Microsoft Principal EM, ex-Cisco innovator—scaling teams, coaching leaders, and cracking FAANGM interviews
+  bio:
+    - "Sid is currently a Principal Engineering Manager in Microsoft managing a distributed service. He is a result oriented engineering leader, with 18+ years of experience in leading and building high performance global distributed teams, delivering high quality software with lean, agile continuous improvement methodologies, OKRs alongwith operational excellence."
+    - "Sid was a founding member of Cisco's Cloud Computing team, with patented work recognized among the top 3 innovations in Cloud Computing at Cisco: Policy-driven automatic redundant fabric placement mechanism for virtual data centers. Sid was also involved in the core design and development of Azure controller (Apollo) for computation partitioning. The work has been featured in <a href='http://bits.blogs.nytimes.com/2009/02/24/microsoft-studies-the-big-sleep/?_r=0'>New York Times</a>."
+    - "Sid has interviewed 200+ candidates, reviewed 1000+ resumes over the course of his career in Microsoft, Cisco, Adobe, Nokia and startups. He has experience interviewing individual contributors and engineering managers. He can help you practice the following types of interviews: behavioral, coding, system design, algorithms, career advancement and leadership coaching. Sid is passionate about helping people with interviews and has successfully helped 20+ people land roles at FAANGM companies."
+  long-bio:
+    - header: "Current Role"
+      paragraphs:
+        - "Sid is currently a Principal Engineering Manager in Microsoft managing a distributed service. He is a result oriented engineering leader, with 18+ years of experience in leading and building high performance global distributed teams, delivering high quality software with lean, agile continuous improvement methodologies, OKRs alongwith operational excellence. Sid was a founding member of Cisco's Cloud Computing team, with patented work recognized among the top 3 innovations in Cloud Computing at Cisco: Policy-driven automatic redundant fabric placement mechanism for virtual data centers."
+        - "Sid was also involved in the core design and development of Azure controller (Apollo) for computation partitioning. The work has been featured in <a href='http://bits.blogs.nytimes.com/2009/02/24/microsoft-studies-the-big-sleep/?_r=0'>New York Times</a>."
+    - header: "Coaching and Mentorship"
+      paragraphs:
+        - "Sid has interviewed 200+ candidates, reviewed 1000+ resumes over the course of his career in Microsoft, Cisco, Adobe, Nokia and startups. He has experience interviewing individual contributors and engineering managers. He can help you practice the following types of interviews: behavioral, coding, system design, algorithms, career advancement and leadership coaching. Sid is passionate about helping people with interviews and has successfully helped 20+ people land roles at FAANGM companies."
+
+- id: ignatiusnothnagel
+  status: active
+  name: Ignatius Nothnagel
+  roles:
+    - engineering-manager
+    - technical-lead
+    - software-architect
+    - exec-director-staff-lead-senior
+  title: Director of Platform Engineering
+  image: /coaches/ignatius.jpeg
+  specialties:
+    - career-coaching
+    - coding-interview
+    - behavioural-interview
+    - system-design
+    - leadership-coaching
+    - agile-methodologies
+  location: 🇬🇧
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-ignatiusnothnagel/15-minute-intro
+    book: techinterviewcoach-ignatiusnothnagel/60-minute-session
+  companies:
+    - [group-a, aws]
+    - [group-h, headfirstgroup]
+    - [group-l, localstack]
+  linkedin: https://www.linkedin.com/in/inothnagel
+  front: Engineering leader specializing in software architecture, cloud computing, and mentoring future tech leaders
+  bio:
+    - "Ignatius Nothnagel is a seasoned engineering leader with a wealth of experience in software architecture, cloud computing, and scalable system design."
+    - "As the Director of Platform Engineering, Ignatius is responsible for leading a team of engineers to deliver high-quality, maintainable solutions that drive business success."
+    - "Passionate about mentoring and leadership, Ignatius provides guidance on career development, technical skills, and leadership to help engineers advance their careers and achieve their professional goals."
+  long-bio:
+    - header: "Professional Background"
+      paragraphs:
+        - "Ignatius has over 15 years of experience in the software industry, with leading companies and innovators like Amazon Web Services, Head First Group and LocalStack.
+          Ignatius' expertise spans software architecture, cloud computing, and scalable system design, with a focus on delivering high-quality, maintainable solutions."
+    - header: "Mentoring and Leadership"
+      paragraphs:
+        - "Ignatius is passionate about mentoring the next generation of tech leaders, providing guidance on career development, technical skills, and leadership.
+          He has a proven track record of helping engineers advance their careers and achieve their professional goals."
+
+- id: rachelr
+  status: active
+  name: Rachel R.
+  roles:
+    - data-analyst
+    - product-manager
+    - program-manager
+    - exec-director-staff-lead-senior
+  title: Global Product Lead at Google
+  image: /coaches/rachel.png
+  specialties:
+    - behavioural-interview
+    - case-study
+    - product-interview
+  location: 🇺🇸
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-andreadellacorte/15-minute-intro
+    book:
+  companies:
+    - [group-g, google]
+    - [group-a, att]
+  linkedin: https://www.linkedin.com/in/rachel-chan
+  front: Google Product Lead, ex-engineer—mentoring underrepresented talent into big tech success
+  bio:
+    - "Rachel has experience across the start-up space and fortune 500 corporate landscape and currently works as a Global Product Lead for Google in NYC."
+    - "After getting a B.S. in CS Rachel worked as a Data Analyst, Software Engineer, Project Manager, and Program Manager before finding her home in Product."
+    - "Rachel has experience interviewing and hiring & led the behavioral interview track for the organization's Technical Development Program during her time at AT&T."
+    - "Rachel is passionate about assisting underrepresented individuals and helping them achieve their goals of breaking into big tech."
+    - "She currently gives back by volunteering with Girls Who Code and Build by Girls."
+  long-bio:
+    - header: "Associate at McKinsey & Company"
+      paragraphs:
+        - "Rachel has experience across the start-up space and fortune 500 corporate landscape and currently works as a Global Product Lead for Google in NYC. After getting a B.S. in CS Rachel worked as a Data Analyst, SE, Project Manager, and Program Manager before finding her home in Product."
+        - "After getting a B.S. in Computer Science, Rachel worked as a Data Analyst, Software Engineer, Project Manager, and Program Manager before finding her home in Product."
+    - header: "Mentoring and Coaching:"
+      paragraphs:
+        - "Rachel has experience interviewing and hiring & led the behavioral interview track for the organization's Technical Development Program during her time at AT&T."
+        - "Rachel is passionate about assisting underrepresented individuals and helping them achieve their goals of breaking into big tech. She currently gives back by volunteering with Girls Who Code and Build by Girls."
+
+- id: taniavasilikioti
+  status: active
+  name: Tania Vasilikioti
+  roles:
+    - data-analyst
+    - engineering-manager
+  title: Data Science Manager at Rover
+  image: /coaches/tania.jpeg
+  specialties:
+    - behavioural-interview
+    - career-coaching
+    - case-study
+  location: 🇪🇸
+  pricing_id: coach-150-lite
+  calcom:
+    intro: techinterviewcoach-taniavasilikioti/15-minute-intro
+    book: techinterviewcoach-taniavasilikioti/60-minute-session
+  companies:
+    - [group-b, babbel]
+    - [group-b, back]
+    - [group-r, rover]
+  linkedin: https://www.linkedin.com/in/taniavasilikioti/
+  front: Data Science Manager at Rover.com, passionate mentor helping candidates thrive and build high-performing teams
+  bio:
+    - "Tania Vasilikioti is a Data Science Manager at Rover.com, with over 8 years of experience as an interviewer for data analytics, data science and business roles. She is based in sunny Barcelona, Spain."
+    - "During her 10 years in tech, Tania has worked from large companies like Expedia, to scale-ups like Babbel and Rover.com, and even small startups like Back and DogBuddy in various roles related to data – from data scientist, to machine learning engineer, and currently data science manager."
+    - "Tania is passionate about putting the right people in the right roles (and helping them grow!), but also about mentoring and helping candidates do their best during the interview process."
+  long-bio:
+    - header: "Data Science Manager at Rover.com"
+      paragraphs:
+        - "Tania Vasilikioti is a seasoned Data Science Manager with a wealth
+          of experience in building and leading high-performing data teams.
+          Currently at Rover, Tania leverages her extensive background in data science
+          and machine learning to drive innovative solutions and deliver impactful results.
+          Her career is characterized by significant contributions in various high-profile
+          roles across the tech industry."
+    - header: "Mentoring and Coaching:"
+      paragraphs:
+        - "Tania is passionate about mentoring and coaching, dedicating her time
+          to guiding and supporting individuals in their professional growth.
+          Her extensive experience in data science and leadership allows her to
+          provide valuable insights and mentorship to aspiring data scientists and leaders,
+          helping them navigate their careers and achieve their goals."
+
+- id: harrymunro
+  status: active
+  name: Harry Munro
+  roles:
+    - exec-director-staff-lead-senior
+    - simulation-engineer
+    - chartered-engineer
+    - data-scientist
+    - python-programmer
+    - mechanical-engineer
+    - engineering-manager
+    - entrepreneurship
+  title: Founder of the School of Simulation
+  image: /coaches/harrymunro.jpeg
+  specialties:
+    - business-launch
+    - python
+    - data-science
+    - simulation-engineering
+    - mechanical-engineering
+    - contracting-roles
+  location: 🇬🇧/🇧🇲
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-harrymunro/15-minute-intro
+    book: techinterviewcoach-harrymunro/60-minute-session
+  companies:
+    - [group-i, improbable]
+    - [group-a, anglo-american]
+    - [group-t, transport-for-london]
+  linkedin: https://www.linkedin.com/in/harryjmunro/
+  front: Simulation expert, engineer, and mentor—scaling careers, businesses, and technical excellence
+  bio:
+    - "Harry Munro is an accomplished simulation expert, chartered engineer, and entrepreneur with over 14 years of experience across diverse industries including transport, mining, defence, and energy."
+    - "Simulation has been the foundation of his career, enabling him to 10x his earnings, achieve financial independence, and enjoy a remote, flexible lifestyle."
+    - "With roles ranging from individual contributor to business owner, Harry offers a unique perspective on training and coaching, particularly in simulation engineering and career advancement."
+    - "He currently resides in Bermuda and the UK, combining island life with helping others succeed in their careers."
+  long-bio:
+    - header: "Founder of the School of Simulation"
+      paragraphs:
+        - "Harry Munro is a highly skilled simulation expert and entrepreneur who has turned his technical expertise into a thriving career. He is the CEO and Co-Founder of Indomitable Simulation, a consultancy specializing in modelling and simulation for a wide range of industries."
+        - "Harry's career highlights include steering $100m+ projects, developing simulation tools for critical decisions, and leading technical teams to success. His ability to translate complex problems into actionable strategies makes him an exceptional coach and mentor."
+    - header: "Coaching and Mentorship"
+      paragraphs:
+        - "As a coach, Harry specializes in empowering ambitious technical professionals, particularly those in simulation engineering, Python programming, and related disciplines. He focuses on helping clients launch businesses, transition into contracting roles, and accelerate their careers."
+        - "His coaching philosophy is rooted in practical, real-world experience, offering actionable insights and tailored guidance to help clients achieve their goals."
+
+- id: jillosborne
+  status: active
+  name: Jill Osborne
+  roles:
+    - technical-writer
+  title: Staff Technical Writer
+  image: /coaches/jillosborne.jpeg
+  specialties:
+    - career-coaching
+    - behavioural-interview
+    - advancement-coaching
+    - resume-review
+  location: 🇬🇧
+  pricing_id: coach-150-lite
+  calcom:
+    intro: techinterviewcoach-jillosborne/15-minute-intro
+    book: techinterviewcoach-jillosborne/60-minute-session
+  companies:
+    - [group-m, mandg]
+    - [group-m, moogsoft]
+    - [group-i, improbable]
+    - [group-i, imply]
+  linkedin: https://www.linkedin.com/in/jill-osborne/
+  front: Ex-developer turned tech writer—clarifying complexity, mentoring newcomers, and shaping documentation careers
+  bio:
+    - "Jill is an experienced technical writer who enjoys explaining complex features and concepts to a wide range of audiences. She transitioned to technical writing in 2018 after a successful career as a software developer."
+    - "Jill knows that the key to being a good technical writer is technical curiosity about the way things work, together with an ability to describe complex products and procedures clearly and accurately. She's passionate about introducing new people to the field of technical writing. She works with software developers and those in related fields who are interested in specializing in documentation. She also advises new technical writers as they find their feet in the industry."
+    - "Jill is involved in recruiting technical writers so she knows the skills and qualities employers are looking for. She can help you to highlight your documentation experience in non-tech writer roles, and work with you to develop the confidence to grow your career in technical writing."
+  long-bio:
+    - header: "Staff Technical Writer"
+      paragraphs:
+        - "Jill is an experienced technical writer who enjoys explaining complex features and concepts to a wide range of audiences. She transitioned to technical writing in 2018 after a successful career as a software developer."
+    - header: "Coaching and Mentorship:"
+      paragraphs:
+        - "Jill knows that the key to being a good technical writer is technical curiosity about the way things work, together with an ability to describe complex products and procedures clearly and accurately. She's passionate about introducing new people to the field of technical writing. She works with software developers and those in related fields who are interested in specializing in documentation. She also advises new technical writers as they find their feet in the industry."
+        - "Jill is involved in recruiting technical writers so she knows the skills and qualities employers are looking for. She can help you to highlight your documentation experience in non-tech writer roles, and work with you to develop the confidence to grow your career in technical writing."
+
+- id: josepinhao
+  status: active
+  name: Jose Pinhao
+  roles:
+    - data-engineer
+  title: Senior Data Engineer at Rover
+  image: /coaches/jose.jpg
+  specialties:
+    - data-engineering
+    - behavioural-interview
+    - case-study
+    - coding-interview
+  location: 🇪🇸
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-josepinhao/15-minute-intro
+    book: techinterviewcoach-josepinhao/60-minute-session
+  companies:
+    - [group-r, rover]
+    - [group-d, databricks]
+    - [group-i, improbable]
+    - [group-j, jagex]
+  linkedin: https://www.linkedin.com/in/jose-pinhao-25bb3b27/
+  front: Senior Data Engineer mentoring teams, driving data innovation, and enabling growth
+  bio:
+    - "Jose Pinhao is an experienced engineer and technology leader with a robust background in Data Analytics and Software Engineering."
+    - "His expertise lies in leading end-to-end project delivery and team management, with a strong focus on mentoring engineers to adopt industry best practices and take on increasing levels of responsibility and autonomy."
+    - "As a Senior Data Engineer at Rover.com, Jose is dedicated to enabling individuals, teams, and businesses through the development of innovative data products and data-driven processes."
+  long-bio:
+    - header: "Senior Data Engineer at Rover.com"
+      paragraphs:
+        - "Jose Pinhao is an experienced engineer and technology leader with a robust
+          background in Data Analytics and Software Engineering. As a Senior Data Engineer
+          at Rover.com, Jose is dedicated to enabling individuals, teams, and businesses
+          through the development of innovative data products and data-driven processes.
+          His expertise lies in leading end-to-end project delivery and team management,
+          with a strong focus on mentoring engineers to adopt industry best practices and
+          take on increasing levels of responsibility and autonomy."
+    - header: "Coaching and Mentorship:"
+      paragraphs:
+        - "Jose is a dedicated coach who is passionate about empowering individuals and teams
+          to excel in the field of data engineering. He specializes in mentoring engineers,
+          helping them adopt industry best practices and develop the skills necessary to
+          advance in their careers. Jose's coaching approach is collaborative and tailored,
+          providing personalized guidance that fosters growth and development."
+
+- id: handeormen
+  status: active
+  name: Hande Ormen
+  roles:
+    - product-marketing-manager
+    - exec-director-staff-lead-senior
+  title: CMO, Senior Product Marketing Manager
+  image: /coaches/hande.jpg
+  specialties:
+    - career-coaching
+    - behavioural-interview
+    - negotiation
+    - product-interview
+    - advancement-coaching
+  location: 🇬🇧
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-handeormen/15-minute-intro
+    book: techinterviewcoach-handeormen/60-minute-session
+  companies:
+    - [group-e, ernstandyoung]
+    - [group-n, napster]
+    - [group-a, amazon]
+    - [group-t, tableau]
+  linkedin: https://www.linkedin.com/in/handeormen/
+  front: Chief Marketing Officer, entepreneur, founder, and mentor empowering businesses and individuals through strategy and coaching
+  bio:
+    - "Hande Ormen is a dynamic marketing leader and mentoring coach, dedicated to empowering individuals and businesses through innovative marketing strategies and personalized coaching."
+    - "Hande is passionate about mentoring and coaching aspiring marketers and business leaders. She provides personalized coaching sessions that focus on building marketing expertise, enhancing leadership skills, and achieving professional goals."
+    - "As the founder of Ivy Digital Marketing Limited, Hande leverages her extensive experience to provide cutting-edge digital marketing solutions that drive business growth and success."
+  long-bio:
+    - header: "Founder of Ivy Digital Marketing Limited"
+      paragraphs:
+        - "Hande Ormen is a dynamic marketing leader and mentoring coach, dedicated to
+          empowering individuals and businesses through innovative marketing strategies
+          and personalized coaching. As the founder of Ivy Digital Marketing Limited,
+          Hande leverages her extensive experience to provide cutting-edge digital
+          marketing solutions that drive business growth and success."
+    - header: "Mentoring and Coaching:"
+      paragraphs:
+        - "Hande is passionate about mentoring and coaching aspiring marketers and business
+          leaders. She provides personalized coaching sessions that focus on building marketing
+          expertise, enhancing leadership skills, and achieving professional goals. Hande’s
+          approach is collaborative and tailored to meet the unique needs of each individual,
+          ensuring they receive the support and guidance necessary to thrive."
+
+- id: ivetadulova
+  status: active
+  name: Iveta Dulova
+  roles:
+    - product-manager
+    - certified-coach
+  title: Certified Coach & Senior Product Manager at Couchbase
+  image: /coaches/iveta.jpg
+  specialties:
+    - career-coaching
+    - behavioural-interview
+    - product-interview
+    - case-study
+    - advancement-coaching
+  location: 🇬🇧
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-ivetadulova/15-minute-intro
+    book: techinterviewcoach-ivetadulova/60-minute-session
+  companies:
+    - [group-i, improbable]
+    - [group-s, skyscanner]
+    - [group-s, snyk]
+    - [group-c, couchbase]
+  linkedin: https://www.linkedin.com/in/iveta-dulova/
+  front: Senior Product Manager, Certified Coach, Expert in distributed systems, product strategy, and leadership development
+  bio:
+    - "Hello! I'm Iveta Dulova, a Senior (Group) Product Manager and a University of Cambridge-educated coach with over 10 years of experience in the tech industry."
+    - "My journey has transitioned me from software engineering to product management leadership, equipping me with in-depth technical and product development expertise."
+    - "My coaching approach is rooted in evidence-based methodologies, including Solution-Focused, Humanistic, and Positive Psychology Coaching. I aim to empower individuals to unlock their potential, navigate career transitions, and achieve personal and professional fulfilment."
+    - "Currently leading mobile and edge computing product portfolios at Couchbase, I focus on technologies enabling distributed application development, data synchronization, and cloud-edge storage."
+  long-bio:
+    - header: "Intro"
+      paragraphs:
+        - "Hello! I'm Iveta Dulova, a Senior (Group) Product Manager and a University of Cambridge-educated coach with over 10 years of experience in the tech industry."
+        - "My journey has transitioned me from software engineering to product management leadership, equipping me with in-depth technical and product development expertise."
+    - header: "Coaching Approach"
+      paragraphs:
+        - "My approach blends evidence-based methodologies like Solution-Focused Coaching, Humanistic Psychology, and Positive Psychology Coaching. I empower individuals to unlock their potential, whether navigating career transitions, advancing into leadership, or finding work-life balance."
+        - "I provide guidance in areas such as transitioning into tech, advancing in product management, managing stakeholders, leading teams, and overcoming impostor syndrome."
+    - header: "About Me"
+      paragraphs:
+        - "My expertise spans databases, SaaS, AI, ML, distributed systems, and full-stack engineering. I specialize in strategic planning, roadmapping, stakeholder management, and product-led growth (PLG)."
+        - "At Couchbase, I lead a product portfolio focused on mobile and edge computing, enabling distributed applications and seamless data synchronization from edge to cloud. Previously, I worked with top global companies like Skyscanner, Snyk, and Improbable."
+    - header: "Coaching Focus Areas"
+      paragraphs:
+        - "I assist in career advancement, transitioning to product management, developing leadership skills, overcoming impostor syndrome, managing stress, and achieving work-life balance. My coaching also covers stakeholder management, team leadership, and interview preparation."
+        - "Together, we'll tailor a plan to align with your aspirations, driving you toward professional success and personal fulfilment."
+
+- id: andreadellacorte
+  status: active
+  name: Andrea Della Corte
+  roles:
+    - engineering-manager
+    - program-manager
+    - exec-director-staff-lead-senior
+  title: VP of Engineering at Curve
+  image: /coaches/andrea.jpg
+  specialties:
+    - career-coaching
+    - behavioural-interview
+    - negotiation
+    - resume-review
+    - system-design
+    - advancement-coaching
+    - agile-methodologies
+  location: 🇬🇧
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-andreadellacorte/15-minute-intro
+    book: techinterviewcoach-andreadellacorte/60-minute-session
+  companies:
+    - [group-a, amazon]
+    - [group-i, improbable]
+    - [group-c, curve]
+  linkedin: https://www.linkedin.com/in/andreadellacorte/
+  front: VP of Engineering, Program Manager, Coach, and Founder, specializing in career coaching, behavioural and system design prep
+  bio:
+    - "Former Software Developer Engineer and Technical Program Manager with Amazon "
+    - "He's worked with nonprofits like Code Your Future and has coached over 30+ people."
+    - "Today, Andrea is a Principal Technical Program Manager for a London based startup."
+  long-bio:
+    - header: "VP of Engineering & Founder of TechInterview.coach"
+      paragraphs:
+        - "Andrea Della Corte is a highly experienced coach and VP of Engineering based in London,
+          UK. With a robust background in the tech industry, Andrea has held notable roles
+          at Amazon and various scale-ups, bringing extensive knowledge of software development
+          and technical interviews to the forefront."
+        - "Andrea is the founder of TechInterview.coach, a comprehensive platform offering
+          resources for interview success. Through this platform, Andrea provides valuable
+          tools and knowledge to aspiring software engineers, helping them prepare for technical
+          interviews and advance their careers."
+    - header: "Coaching and Mentorship"
+      paragraphs:
+        - "As a dedicated coach, Andrea specializes in system design and behavioural interview
+          questions. His collaborative and tailored approach empowers individuals to master
+          essential skills and excel in their careers. Andrea’s coaching sessions are known
+          for their practical insights and personalized guidance, helping candidates build
+          confidence and achieve their professional goals."
+
+- id: arvindmuthukumar
+  status: active
+  name: Arvind Muthukumar
+  roles:
+    - engineering-manager
+    - software-engineer
+  title: Engineering Manager at Deliveroo
+  image: /coaches/arvind.jpg
+  specialties:
+    - career-coaching
+    - coding-interview
+    - behavioural-interview
+    - system-design
+    - advancement-coaching
+  location: 🇬🇧
+  pricing_id: coach-150-lite
+  calcom:
+    intro: techinterviewcoach-arvindmuthukumar/15-minute-intro
+    book: techinterviewcoach-arvindmuthukumar/60-minute-session
+  companies:
+    - [group-o, oracle]
+    - [group-a, amazon]
+    - [group-d, deliveroo]
+  linkedin: https://www.linkedin.com/in/arvind-muthukumar
+  front: Engineering Manager at Deliveroo, ex-Amazon, coach, and mentor empowering tech talent
+  bio:
+    - "Arvind is an ex-entrepreneur and a former engineering manager at Amazon."
+    - "During his time with Amazon, Arvind conducted over 100+ software engineer interviews both as an engineer and as a hiring manager."
+    - "As a manager and as a mentor he has coahed 20+ people."
+    - "Arvind is passionate about empowering people's growth that enables them to solve problems that impact a lot of people at scale with technology."
+    - "He currently works as an engineering manager at Deliveroo, a fast growing UK based start-up"
+  long-bio:
+    - header: "Engineering Manager at Deliveroo Company"
+      paragraphs:
+        - "Arvind is an accomplished engineering leader with a diverse background,
+          including roles as an ex-entrepreneur and a former engineering manager at Amazon.
+          Currently, he serves as an engineering manager at Deliveroo, a rapidly expanding
+          UK-based startup known for its innovative approach to food delivery."
+    - header: "Coaching and Mentorship:"
+      paragraphs:
+        - "Arvind is passionate about empowering individuals to reach their full potential.
+          As a dedicated coach and mentor, he focuses on enabling people to solve complex
+          problems through technology. His coaching philosophy centers on fostering growth,
+          encouraging innovation, and developing skills that have a significant impact
+          on both individuals and organizations."
+
+- id: ramesndrakumar
+  status: active
+  name: Ramesndra Kumar
+  roles:
+    - software-architect
+    - engineering-manager
+  title: Principal Engineer at Paytm
+  image: /coaches/ramendra.png
+  specialties:
+    - career-coaching
+    - behavioural-interview
+    - resume-review
+    - system-design
+    - coding-interview
+  location: 🇮🇳
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-ramesndrakumar/15-minute-intro
+    book: techinterviewcoach-ramesndrakumar/60-minute-session
+  companies:
+    - [group-i, ibm]
+    - [group-l, lgsoft]
+    - [group-m, microsoft]
+    - [group-s, servicenow]
+    - [group-p, paytm]
+  linkedin: https://www.linkedin.com/in/ramesndra-kumar-ab05611a/
+  front: Principal Engineer at Paytm, ex-Microsoft, system design coach, and mentor for top tech roles
+  bio:
+    - "Ramesndra Kumar: System Design & Coding Coach | Software Architect & Principal Engineer | Former Microsoft Engineer"
+    - "Ramesndra Kumar is an experienced Software Architect and Engineering Manager with over 12 years in system design, distributed systems, and microservices. Currently, he serves as a Principal Engineer at Paytm, a leading fintech company."
+    - "Previously, Ramesndra worked as a Staff Software Engineer at ServiceNow and a Software Engineer at Microsoft, where he gained deep technical expertise and contributed to impactful projects. His experience spans high-scale distributed systems and database internals."
+    - "As a trusted coach, Ramesndra has guided over 40 engineers into roles at top tech companies like Meta, Uber, and Google. He’s conducted more than 150 interviews, including 50+ focused on system design, providing candidates with comprehensive preparation."
+    - "Ramesndra's core expertise includes architecting scalable distributed systems, working with NoSQL databases, and implementing robust microservices. He is proficient in C#, Java, JavaScript, Python, and C++, with a strong grasp of advanced algorithms and design patterns."
+    - "In his role at Paytm, he leverages his fintech knowledge to lead technical initiatives, ensuring performance, scalability, and security. As an Engineering Manager, he balances technical mentorship with career development, fostering team growth and productivity."
+  long-bio:
+    - header: "Technical Expertise & Coaching Excellence"
+      paragraphs:
+        - "With over 12 years of experience in system design, distributed systems, and microservices, Ramesndra Kumar brings deep technical expertise and fintech insights to his role as Principal Engineer at Paytm. Formerly a software engineer at Microsoft, he has guided 40+ engineers into roles at top tech companies. His coaching is rooted in real-world system design challenges, preparing candidates with a comprehensive approach that combines technical rigor, coding mastery, and strategic problem-solving."
+    - header: "Leadership in Fintech & People Management"
+      paragraphs:
+        - "At Paytm, Ramesndra leads technical initiatives that drive innovation and performance in fintech, specializing in scalability, security, and high availability. His expertise spans NoSQL databases, advanced algorithms, and programming languages like C#, Java, Python, and C++. As an Engineering Manager, he mentors his team in both technical skills and career growth, fostering a productive environment that supports team members in achieving their goals and contributing to impactful projects."
+
+- id: alankipust
+  status: active
+  name: Alan Kipust
+  roles:
+    - engineering-manager
+    - product-manager
+    - exec-director-staff-lead-senior
+  title: Senior Director Product Management at Chewy
+  image: /coaches/alan.jpg
+  specialties:
+    - career-coaching
+    - behavioural-interview
+    - case-study
+    - product-interview
+    - advancement-coaching
+  location: 🇺🇸
+  pricing_id: coach-200-lite
+  calcom:
+    intro: techinterviewcoach-alankipust/15-minute-intro
+    book: techinterviewcoach-alankipust/60-minute-session
+  companies:
+    - [group-m, microsoft]
+    - [group-a, amazon]
+    - [group-u, uber]
+    - [group-c, chewy]
+  linkedin: https://www.linkedin.com/in/alankipust/
+  front: Senior Director of Product Management at Chewy, passionate coach, and innovation leader
+  bio:
+    - "Alan Kipust is a highly accomplished product management leader and dedicated coach with a remarkable career spanning the automotive and technology sectors."
+    - "Alan is deeply committed to coaching and mentorship, leveraging his extensive industry experience to guide and inspire the next generation of leaders."
+    - "As a coach, Alan emphasizes the importance of innovation, continuous learning, and a customer-centric approach."
+    - "Currently serving as the Senior Director of Product Management, Alan is at the helm of developing innovative vehicle technologies that are shaping the future of transportation."
+  long-bio:
+    - header: "Sr. Director Product Management at Chewy"
+      paragraphs:
+        - "Alan Kipust is a highly accomplished product management leader and dedicated
+          coach with a remarkable career spanning many diverse sectors.
+          Currently serving as the Senior Director of Product Management at Chewy,
+          Alan's strategic insights and leadership have been crucial in steering
+          the product strategy, ensuring the company’s competitive edge in the ever-evolving
+          retail industry."
+    - header: "Coaching and Mentorship:"
+      paragraphs:
+        - "Alan is deeply committed to coaching and mentorship, leveraging his extensive
+          industry experience to guide and inspire the next generation of leaders. He
+          is passionate about helping others develop their skills and achieve their career
+          goals. As a coach, Alan emphasizes the importance of innovation, continuous
+          learning, and a customer-centric approach. He has mentored numerous professionals,
+          providing valuable insights and fostering a collaborative and growth-oriented mindset."
+
+- id: kcyerrid
+  status: active
+  name: K.C. Yerrid
+  roles:
+    - infosec-operations-manager
+    - cybersecurity-specialist
+  title: Information Security Operations Executive at Undisclosed
+  image: /coaches/kc.jpg
+  specialties:
+    - cybersecurity
+    - incident-response
+    - digital-forensics
+    - career-coaching
+  location: 🇺🇸
+  pricing_id: coach-150-lite
+  calcom:
+    intro: techinterviewcoach-kcyerrid/15-minute-intro
+    book: techinterviewcoach-kcyerrid/60-minute-session
+  companies:
+    - [group-a, amazon]
+    - [group-t, t-mobile]
+    - [group-l, lastpass]
+  linkedin: https://www.linkedin.com/in/kcyerrid
+  front: Head of Cyber Operations with 25+ years' experience, passionate educator and mentor
+  bio:
+    - "K.C. is a seasoned Information Security Operations Manager and cybersecurity leader with over 25 years of experience protecting digital environments from evolving cyber threats."
+    - "Combining strong technical expertise with business savvy, K.C. builds robust security programs rooted in servant leadership and practical, results-driven strategies."
+    - "Currently serving as the Head of Cyber Operations for one of the largest residential mortgage providers in the United States, K.C. oversees comprehensive defensive security functions, including Cybersecurity Operations, Incident Response, Cyber Threat Intelligence, and Threat Hunting."
+    - "In addition, he is a dedicated adjunct instructor, teaching Digital Forensics and Incident Response, Game Theory, Cloud Computing, and Python at universities nationwide."
+    - "Passionate about empowering the next generation of cybersecurity professionals, K.C. strives to make information security accessible to both technical and non-technical stakeholders."
+  long-bio:
+    - header: "Head of Cyber Operations"
+      paragraphs:
+        - "K.C. is a seasoned Information Security Operations Manager and cybersecurity leader with over 25 years of experience protecting digital environments from evolving cyber threats. Combining strong technical expertise with business savvy, K.C. builds robust security programs rooted in servant leadership and practical, results-driven strategies."
+        - "Currently serving as the Head of Cyber Operations for one of the largest residential mortgage providers in the United States, K.C. oversees comprehensive defensive security functions, including Cybersecurity Operations, Incident Response, Cyber Threat Intelligence, and Threat Hunting."
+    - header: "Teaching and Mentorship"
+      paragraphs:
+        - "In addition, K.C. is a dedicated adjunct instructor, teaching Digital Forensics and Incident Response, Game Theory, Cloud Computing, and Python at universities nationwide. Passionate about empowering the next generation of cybersecurity professionals, K.C. strives to make information security accessible to both technical and non-technical stakeholders."
+        - "Throughout his career, he has held key roles at industry-leading organizations such as Fishnet Security (now Optiv), Amazon.com, T-Mobile, and LastPass, where he led efforts to defend against advanced threats and adversaries."
+        - "Beyond his professional achievements, K.C. is committed to mentoring individuals at all career stages, from aspiring practitioners entering the field to professionals transitioning to leadership roles. His guidance has helped many navigate the complexities of cybersecurity and excel in their careers."
+
+- id: olliewood
+  status: active
+  name: Ollie Wood
+  roles:
+    - quality-assurance
+    - engineering-manager
+    - game-development
+  title: Lead QA Engineer (Manager) at Improbable
+  image: /coaches/olliewood.jpeg
+  specialties:
+    - behavioural-interview
+    - qa-engineering
+    - games-industry
+    - multiplayer-testing
+    - career-coaching
+  location: 🇬🇧
+  pricing_id: coach-150-lite
+  calcom:
+    intro: techinterviewcoach-olliewood/15-minute-intro
+    book: techinterviewcoach-olliewood/60-minute-session
+  companies:
+    - [group-a, amazon]
+    - [group-i, improbable]
+  linkedin: https://www.linkedin.com/in/oliverbalaam/
+  front: QA expert and team lead with 10+ years in engineering, mentorship, and indie game testing
+  bio:
+    - "Ollie Wood is a QA expert with over a decade of experience, currently leading QA efforts at Improbable and Bearwaves, an indie game studio."
+    - "Specializing in engineering management, multiplayer testing, SaaS QA, and establishing QA functions, Ollie is highly sought after for his expertise."
+    - "He is an award-winning professional, recognized as 'QA Hero' at Game Dev Heroes 2022 and a proud BAFTA Crew member since 2021."
+    - "Ollie is deeply invested in mentorship and teaching, having worked with Warner Bros. Games, Creative UK, Game Anglia, and more."
+  long-bio:
+    - header: "Lead QA Engineer and Mentor"
+      paragraphs:
+        - "Ollie Wood's journey in QA began at Amazon Prime Video, where he honed his engineering fundamentals and test strategies. Now, as a QA Manager at Improbable, Ollie oversees the quality of their SaaS platform, improving tools, processes, and cross-disciplinary collaboration."
+        - "Ollie's work at Bearwaves reflects his passion for indie game development, balancing QA and production to ship innovative projects."
+    - header: "Coaching and Expertise"
+      paragraphs:
+        - "As a coach, Ollie helps QA professionals and teams excel, focusing on building robust QA functions, multiplayer testing, and SaaS quality strategies. His teaching extends to clients like Warner Bros. Games, Creative UK, and Game Anglia."
+        - "Ollie's coaching approach combines practical expertise with a passion for sharing knowledge, fostering growth for individuals and teams alike."
+
+- id: arpithadr
+  status: active
+  name: Arpitha D. R.
+  roles:
+    - software-engineer
+    - exec-director-staff-lead-senior
+  title: Staff Software Engineer at Oracle
+  image: /coaches/arpitha.jpg
+  specialties:
+    - coding-interview
+    - behavioural-interview
+    - system-design
+  location: 🇧🇪
+  pricing_id: coach-150-lite
+  calcom:
+    intro: techinterviewcoach-andreadellacorte/15-minute-intro
+    book:
+  companies:
+    - [group-o, oracle]
+    - [group-g, google]
+    - [group-v, vmware]
+  linkedin: https://www.linkedin.com/in/arpithadr/
+  front: Distinguished Staff Engineer, passionate mentor, guiding others to break barriers and excel
+  bio:
+    - "Arpitha is currently a Senior Software Engineer at Vmware Inc, based off Palo Alto and Belgium offices."
+    - "She joined Vmware as a software intern during her Master's degree and grew to a Senior Software Engineer in a span of 4 years."
+    - "She has conducted interviews for various technical positions and prepared more than 45+ people for their interviews. "
+    - "She has successfully cleared the interview process of companies like Amazon, Salesforce and has mentored engineers clear Google, Meta."
+    - "She is passionate about mentoring and she encourages individuals to break their own barriers and achieve what they truly deserve."
+  long-bio:
+    - header: "Senior Software Engineer & Staff Engineer at Broadcom"
+      paragraphs:
+        - "Arpitha D. R. is a distinguished Staff Engineer at Broadcom, bringing a wealth
+          of experience from her previous roles as a Senior Software Engineer at VMware
+          and an Associate Software Engineer at Oracle/Sun Microsystems. Arpitha's career
+          is characterized by her deep technical expertise, dedication to innovation,
+          and a passion for mentoring and coaching."
+    - header: "Mentoring and Coaching:"
+      paragraphs:
+        - "Arpitha is a passionate mentor and coaching enthusiast, committed to empowering
+          the next generation of tech professionals. She believes in the transformative
+          power of mentorship and actively supports individuals in their career growth.
+          Through her coaching, Arpitha helps mentees develop the skills and confidence
+          needed to excel in the tech industry."
+
+- id: nikhiltaneja
+  status: active
+  name: Nikhil Taneja
+  roles:
+    - product-manager
+    - exec-director-staff-lead-senior
+  title: Staff Product Manager at Deliveroo
+  image: /coaches/nikhil.jpeg
+  specialties:
+    - career-coaching
+    - behavioural-interview
+    - case-study
+    - product-interview
+  location: 🇬🇧
+  pricing_id: coach-150-lite
+  calcom:
+    intro: techinterviewcoach-nikhiltaneja/15-minute-intro
+    book: techinterviewcoach-nikhiltaneja/60-minute-session
+  companies:
+    - [group-o, oracle]
+    - [group-a, altair]
+    - [group-d, deliveroo]
+  linkedin: https://www.linkedin.com/in/nikhiltaneja05
+  front: Staff Product Manager at Deliveroo, dedicated mentor, empowering aspiring product leaders through coaching and teaching
+  bio:
+    - "Nikhil Taneja is a seasoned product management professional with extensive experience in leading product initiatives across various tech companies."
+    - "Nikhil is passionate about mentoring and coaching, with a particular focus on product management. His roles as an Instructor at BrainStation and a Mentor at Upraised highlight his commitment to empowering others."
+    - "Currently, he serves as a Staff Product Manager at Deliveroo, where he drives product strategy and innovation."
+    - "In addition to his role at Deliveroo, Nikhil is an Instructor in Product Management at BrainStation and a Mentor in Product Management at Upraised, reflecting his dedication to mentoring and coaching the next generation of product leaders."
+  long-bio:
+    - header: "Staff Product Manager at Deliveroo Company"
+      paragraphs:
+        - "Nikhil Taneja is a seasoned product management professional with extensive
+          experience in leading product initiatives across various tech companies.
+          Currently, he serves as a Staff Product Manager at Deliveroo, where he drives
+          product strategy and innovation. In addition to his role at Deliveroo, Nikhil
+          is an Instructor in Product Management at BrainStation and a Mentor in
+          Product Management at Upraised, reflecting his dedication to mentoring and
+          coaching the next generation of product leaders."
+    - header: "Mentoring and Coaching:"
+      paragraphs:
+        - "Nikhil is passionate about mentoring and coaching, with a particular focus
+          on product management. His roles as an Instructor at BrainStation and a
+          Mentor at Upraised highlight his commitment to empowering others.
+          He provides valuable guidance and support to individuals aspiring to
+          excel in product management, helping them develop the skills and confidence
+          needed to succeed."
+
+- id: michelepuddu
+  status: active
+  name: Michele Puddu
+  roles:
+    - engineering-manager
+    - program-manager
+    - exec-director-staff-lead-senior
+  title: Director of Engineering at Oodle Car
+  image: /coaches/michele.png
+  specialties:
+    - behavioural-interview
+    - career-coaching
+  location: 🇬🇧
+  pricing_id: coach-150-lite
+  calcom:
+    intro: techinterviewcoach-michelepuddu/15-minute-intro
+    book: techinterviewcoach-michelepuddu/60-minute-session
+  companies:
+    - [group-m, moneyfarm]
+    - [group-t, trainline]
+    - [group-digits, 10x-banking]
+  linkedin: https://www.linkedin.com/in/michipg/
+  front: People-oriented VP of Engineering, passionate about mentoring, software architecture, and driving technical vision
+  bio:
+    - "Michele Puddu is an accomplished engineering leader with extensive experience in building and leading high-performance teams."
+    - "Michele has a strong focus on the craft of software architecture, clean code, observability, and event-driven systems."
+    - "His extensive experience in engineering and leadership allows him to provide valuable insights and mentorship to aspiring engineers and leaders, helping them navigate their careers and achieve their goals."
+    - "As the VP of Engineering at Oodle Car Finance, Michele is responsible for driving the company's technical vision and ensuring the successful delivery of innovative solutions."
+  long-bio:
+    - header: "VP of Engineering at the Oodle Car Finance Company"
+      paragraphs:
+        - "Michele Puddu is an accomplished engineering leader with extensive experience
+          in building and leading high-performance teams. As the VP of Engineering at
+          Oodle Car Finance, Michele is responsible for driving the company's technical
+          vision and ensuring the successful delivery of innovative solutions.
+          His career is marked by significant contributions in various leadership roles
+          across the tech industry, showcasing his dedication to technical excellence and
+          effective delivery strategies."
+        - "Michele has a strong focus on the craft of software architecture, clean code,
+          observability, and event-driven systems. His technical expertise and
+          commitment to excellence have made him a respected leader in the
+          engineering community. Michele's ability to build and restructure
+          organizations around technical excellence and effective delivery strategies is a
+          testament to his deep understanding of engineering principles and best practices."
+    - header: "Mentoring and Coaching:"
+      paragraphs:
+        - "Michele is passionate about mentoring and coaching, dedicating his time to
+          guiding and supporting individuals in their professional growth. His extensive
+          experience in engineering and leadership allows him to provide valuable insights
+          and mentorship to aspiring engineers and leaders, helping them navigate their
+          careers and achieve their goals."

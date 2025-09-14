@@ -1,0 +1,24 @@
+USD:
+  sign: $
+  label: 🇺🇸 United States Dollar
+  exchangeRate: 1
+
+GBP:
+  sign: £
+  label: 🇬🇧 British Pound
+  exchangeRate: 0.81372549
+
+CAD:
+  sign: C$
+  label: 🇨🇦 Canadian Dollar
+  exchangeRate: 1.35864973
+
+EUR:
+  sign: €
+  label: 🇪🇺 Euro
+  exchangeRate: 0.933823529
+
+AUD:
+  sign: A$
+  label: 🇦🇺 Australian Dollar
+  exchangeRate: 1.55333333

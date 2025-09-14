@@ -3,11 +3,11 @@ import { join, basename } from 'path';
 import matter from 'gray-matter';
 import type { BlogPost } from '../types';
 
-const V1_POSTS_PATH = '../../techinterview.coach/_posts';
+const POSTS_PATH = '_posts';
 
 export function loadPosts(): BlogPost[] {
   try {
-    const postsPath = join(process.cwd(), V1_POSTS_PATH);
+    const postsPath = join(process.cwd(), POSTS_PATH);
     const fileNames = readdirSync(postsPath);
 
     const posts = fileNames

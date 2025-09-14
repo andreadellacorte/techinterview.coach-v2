@@ -1,0 +1,49 @@
+coaching:
+  - question: "How does a 1:1 coaching session work?"
+    answer: "Browse our marketplace of experienced tech interview coaches. Once you find the right coach, book a 1:1 video session with them. At the scheduled time, join the live call, discuss your challenges, practice interview questions, and receive personalized feedback to improve your performance."
+  - question: "How long are the coaching sessions?"
+    answer: "Standard coaching sessions are 60 minutes, though some coaches may offer shorter or longer options. You can select your preferred duration when booking."
+  - question: "How much can I accomplish in a single session?"
+    answer: "A lot! Many candidates feel more confident and well-prepared after just one session. The most popular format is a 60-minute deep dive, but even a 30-minute session can be highly effective for targeted feedback. Many candidates choose to book multiple sessions for continued improvement."
+  - question: "Can I book the same coach more than once?"
+    answer: "Yes! Many candidates book multiple sessions with the same coach or work with different coaches to gain varied perspectives."
+  - question: "Why are these coaches offering sessions?"
+    answer: "Our coaches are experienced industry professionals, hiring managers, and former FAANG+ interviewers who want to help others succeed. Many enjoy mentoring and find it rewarding to guide candidates through the interview process."
+  - question: "What time zones are the coaching sessions based in?"
+    answer: "All session times are displayed in your local time zone for convenience."
+  - question: "Do you support international candidates?"
+    answer: "Yes! Tech Interview Coach serves candidates globally. All sessions are conducted in English, and payments are processed via Stripe in USD."
+  - question: "What if my preferred coach is fully booked?"
+    answer: "If a coach has no available slots, you can check back regularly or reach out to hello@techinterview.coach to request a session."
+  - question: "When do coaches open new availability?"
+    answer: "It depends on the coach. Some update their availability weekly, while others add new slots monthly. Booking early is recommended."
+  - question: "Can I reschedule or cancel my session?"
+    answer: "Yes, you can reschedule at least 24 hours in advance. Rescheduling or canceling within 24 hours will incur a fee, as coaches set aside time for your session. All changes must be made through Calendly."
+  - question: "What happens if my coach doesn't show up?"
+    answer: "If your coach doesn't attend the scheduled session, you can report the issue through our platform. We will assist in rescheduling or issuing a refund."
+  - question: "Are coaching sessions recorded?"
+    answer: "No, coaching sessions are not recorded for privacy reasons. We recommend taking notes during the session to refer back to later."
+  - question: "How do I prepare for my coaching session?"
+    answer: |
+      To make the most of your session:
+      1) Have your resume, job description, or target companies ready
+      2) Prepare specific questions or challenges you want to discuss
+      3) If practicing coding questions, ensure you have a shared coding platform (e.g., CoderPad, LeetCode, or Google Docs) ready
+      4) Use a quiet environment and a stable internet connection for the best experience
+  - question: "What payment methods do you accept?"
+    answer: "We process payments via Stripe and accept all major credit/debit cards, Link and PayPal (depending on country)."
+  - question: "Do you offer refunds?"
+    answer: "We're confident that you'll love your first session, but in the rare case where a session did not meet your expectations, let us know and we'll make things right. We do not offer refunds for unused credits."
+
+linkedin-makeover-faqs:
+  - question: What is included in the Resume & LinkedIn Makeover service?
+    answer: The Resume & LinkedIn Makeover services include a complete profile overhaul, from rewriting your headline and summary to optimizing your experience, skills, and accomplishments sections. We ensure your profile is keyword-rich and aligned with your career goals to enhance visibility and attract recruiters.
+
+  - question: How long does the Resume & LinkedIn Makeover process take?
+    answer: The process typically takes 5-7 business days, depending on the complexity of your profile and the level of customization required. We start with a detailed consultation to understand your needs and then proceed with drafting, reviewing, and finalizing your profile.
+
+  - question: Can I request revisions after the profile is completed?
+    answer: Absolutely! We offer a round of revisions after the initial draft to ensure your profiles perfectly reflects your personal brand and career objectives. Our goal is to create a profile that you are completely satisfied with.
+
+  - question: Will my LinkedIn profile be searchable by recruiters after the makeover?
+    answer: Yes, our service includes optimizing your profile with relevant keywords and industry-specific terms that improve your chances of being found by recruiters. We focus on making your profile not only compelling but also easily discoverable in LinkedIn search results.

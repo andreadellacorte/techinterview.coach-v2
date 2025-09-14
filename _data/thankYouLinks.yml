@@ -1,0 +1,25 @@
+coaches:
+  - url: "/links/resume-submission"
+    text: Share your resume with us here!
+  - url: "https://uk.trustpilot.com/review/techinterview.coach"
+    text: Like our services? Leave a review on TrustPilot
+  - url: "https://techinterviewcoach.zapier.app/refer-a-friend"
+    text: Love us? Refer a friend and be rewarded!
+  - url: "/docs"
+    text: Check our FAQs for any questions you might have!
+  - url: "mailto:hello@techinterview.coach"
+    text: Contact us!
+
+services:
+  - url: "/links/coaches"
+    text: Get to know our coaches!
+  - url: "/blog"
+    text: Check out our blog for more resources!
+  - url: "https://uk.trustpilot.com/review/techinterview.coach"
+    text: Like our services? Leave a review on TrustPilot
+  - url: "https://techinterviewcoach.zapier.app/refer-a-friend"
+    text: Love us? Refer a friend and be rewarded!
+  - url: "/links/docs"
+    text: Check our FAQs for any questions you might have!
+  - url: "mailto:hello@techinterview.coach"
+    text: Contact us!

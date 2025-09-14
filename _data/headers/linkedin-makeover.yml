@@ -1,0 +1,44 @@
+# Determines the initial color of the header.
+# If true, the header text will be dark. If false, the header text will be light.
+
+dark: true
+theme:
+  bg: true
+  shadow: false
+
+links:
+  - type: link
+    data:
+      name: Back to Coaches
+      link: "/tech"
+      icon: "fa fa-home"
+
+  - type: link
+    data:
+      name: Pricing
+      link: "#pricing"
+      icon: "fa fa-comment-dollar"
+
+  - type: link
+    data:
+      name: 1:1 Coaching
+      link: "/tech"
+      icon: "fa fa-id-badge"
+
+  - type: dropdown
+    data:
+      name: Blogs
+      icon: "fa fa-blog"
+      links:
+        - data:
+            name: Blog Homepage
+            link: "/blog"
+            description: "Learn with us!"
+        - data:
+            name: "Highlight: Earn Trust"
+            link: "/blog/amazons-earn-trust-how-to-ace-this-leadership-principle/"
+            description: "How to Master this Leadership Principle"
+        - data:
+            name: "Highlight: Bias for Action"
+            link: "/blog/amazons-bias-for-action-how-to-ace-this-leadership-principle/"
+            description: "How to Master this Leadership Principle"

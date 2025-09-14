@@ -3,11 +3,11 @@ import { join } from 'path';
 import yaml from 'js-yaml';
 import type { Coach } from '../types';
 
-const V1_DATA_PATH = '../../techinterview.coach/_data';
+const DATA_PATH = '_data';
 
 export function loadCoaches(): Coach[] {
   try {
-    const coachesPath = join(process.cwd(), V1_DATA_PATH, 'coaches.yml');
+    const coachesPath = join(process.cwd(), DATA_PATH, 'coaches.yml');
     const fileContents = readFileSync(coachesPath, 'utf8');
     const coaches = yaml.load(fileContents) as Coach[];
 

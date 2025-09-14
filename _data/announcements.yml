@@ -1,0 +1,110 @@
+# an announcement about the free resume review service
+resume-review:
+  title: "Free Resume Review"
+  image: /cdn/450/announcements/resume-review2.png
+  paragraphs:
+    - "Get your resume reviewed by our experts and learn how to make it stand out. We'll provide you with actionable feedback to help you land your dream job."
+    - "We'll explain how to optimize your resume for a job and to maximize ATS scores."
+  url: /links/resume-submission
+  button-text: "Submit Now"
+
+# 2025-04-03 Sid
+code-to-cloud-webinar:
+  title: "Live Webinar!"
+  image: /cdn/450/announcements/2025-04-03-from-code-to-cloud-webinar.jpeg
+  paragraphs:
+    - "Join this live Q&A with Sid and Hande to gain insights on transitioning from <strong>Code to Cloud</strong>."
+    - "Sid, a Principal Engineerng Manager at Microsoft will share core competencies for cloud professionals."
+    - "Don't miss it!"
+  button-text: "Sign Up"
+  url: https://www.linkedin.com/events/fromcodetocloud-scalingengineer7311206465606750208/theater/
+
+# 2025-03-17 Iveta
+product-management-webinar:
+  title: "Live Webinar!"
+  image: /cdn/450/announcements/2025-03-17-product-management-webinar.png
+  paragraphs:
+    - "Join this live Q&A with Iveta and Hande to gain insights on growing your <strong>Product Management Influence</strong>."
+    - "Iveta, a seasoned product manager and accredited coach will share practical advice, challenges to expect, and strategies to succeed."
+    - "Don't miss it!"
+  button-text: "Sign Up"
+  url: https://www.linkedin.com/events/7302668074787201024/about/
+
+# 2025-02-11 Arvind
+ic-to-management-webinar:
+  title: "Live Webinar!"
+  image: /cdn/450/announcements/2025-02-11-ic-to-management-webinar-2.jpeg
+  paragraphs:
+    - "Join this live Q&A with Arvind and Hande to gain insights on transitioning from <strong>individual contributor</strong> to <strong>management</strong>."
+    - "Arvind, a technical coach and seasoned leader with experience at Deliveroo and Amazon, will share practical advice, challenges to expect, and strategies to succeed in leadership."
+    - "Don't miss it!"
+  button-text: "Sign Up"
+  url: https://www.linkedin.com/events/7287148484242149377/comments/
+
+# 2025-01-13 Adelina
+cto-webinar:
+  title: "Upcoming Webinar!"
+  image: /cdn/350/announcements/cto-webinar-2025-01-13.png
+  paragraphs:
+    - "Join this webinar to learn real-world strategies, actionable steps, and insider tips from Adelina, a guest lecturer at Oxford and founder of the Geek Whisperer."
+    - "Join Adelina & Hande and learn how to navigate your own path to the top. Don't miss it!"
+  url: https://lu.ma/rwbk1ltl
+
+before-you-go:
+  header:
+    title: Before you go!
+  body:
+    image: /announcements/discount-image.jpeg
+    top: "Did you know?"
+    title: "We Offer:"
+    text: ✅ Your first coaching session for 50% off!<br>
+      ✅ Free Resume Reviews!<br>
+      Get interview ready for as little as $63!
+  floating-button:
+    icon: ""
+    text: ""
+    color: #0064a4
+  link:
+    url: /links/pricing
+    target_blank: false
+    text: Check Our Services
+    icon: fa fa-thumbs-up
+  footer: Any questions? Reach out to us @ <a href="mailto:hello@techinterview.coach">hello@techinterview.coach</a>!
+
+freeCourse:
+  header:
+    title: "Got a sec?"
+  body:
+    image: /coaches/rachel.png
+    top: "Presenting this month's FREE workshop:"
+    title: Coding Interview 101
+    text: Super power your learning with our tips & tricks <br/>and  nail your coding interview.
+  floating-button:
+    icon: fas fa-graduation-cap
+    text: Course
+    color: rgb(0, 100, 164)
+  link:
+    url: https://bit.ly/tech-interview-free-course-cohort-1
+    target_blank: true
+    icon: fa fa-whatsapp
+    text: Join us!
+  footer: What class would you like next? Tell us at <a href="mailto:hello@techinterview.coach">hello@techinterview.coach</a>!
+
+bf23:
+  header:
+    title: "Limited Time Cyber Monday Deal!"
+  body:
+    image: /announcements/cyber-monday-23.jpeg
+    top: "Next gig search? No problem!"
+    title: Extra 20% off on all our subscription plans for Cyber Monday
+    text: Super power your learning with our tips & tricks <br/>and  nail your coding interview.
+  floating-button:
+    icon: fa fa-tag
+    text: CM23
+    color: "#FF474D"
+  link:
+    url: /links/pricing
+    target_blank: false
+    icon: fa fa-percent
+    text: Join us!
+  footer: Any questions? Reach out to us @ <a href="mailto:hello@techinterview.coach">hello@techinterview.coach</a>!

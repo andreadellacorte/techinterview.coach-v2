@@ -1,0 +1,57 @@
+# Determines the initial color of the header.
+# If true, the header text will be dark. If false, the header text will be light.
+
+dark: true
+
+theme:
+  bg: true
+  shadow: false
+
+links:
+  - type: link
+    data:
+      name: Home
+      link: "/tech"
+      icon: "fa fa-home"
+
+  - type: link
+    data:
+      name: Get Started
+      link: "#get-started"
+      icon: "fa fa-play"
+
+  - type: link
+    data:
+      name: Testimonials
+      link: "#testimonials"
+      icon: "fa fa-comment"
+
+  - type: link
+    data:
+      name: FAQs
+      link: "#faqs"
+      icon: "fa fa-question"
+
+  - type: link
+    data:
+      name: LinkedIn & Resume
+      link: "/services/linkedin-makeover"
+      icon: "fa fa-id-card"
+
+  - type: dropdown
+    data:
+      name: Blogs
+      icon: "fa fa-blog"
+      links:
+        - data:
+            name: Blog Homepage
+            link: "/blog"
+            description: "Learn with us!"
+        - data:
+            name: "Highlight: Earn Trust"
+            link: "/blog/amazons-earn-trust-how-to-ace-this-leadership-principle/"
+            description: "How to Master this Leadership Principle"
+        - data:
+            name: "Highlight: Bias for Action"
+            link: "/blog/amazons-bias-for-action-how-to-ace-this-leadership-principle/"
+            description: "How to Master this Leadership Principle"

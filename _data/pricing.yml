@@ -1,0 +1,17 @@
+coach-150-lite:
+  show-header: true
+  minimum: 90
+  pricing-table-id: prctbl_1QXAieEbVKYaYzCSZRsVAuUq
+
+coach-200-lite:
+  show-header: true
+  minimum: 137.5
+  pricing-table-id: prctbl_1QrMGrEbVKYaYzCSfWd7bEru
+
+linkedin-makeover-v1:
+  show-header: false
+  pricing-table-id: prctbl_1QtONUEbVKYaYzCSoK3isWyk
+
+linkedin-makeover-v2:
+  show-header: false
+  pricing-table-id: prctbl_1R2CXXEbVKYaYzCSlxfWxT9O
