@@ -1,5 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Navigation } from '@/components/Navigation';
 import { loadCoaches, loadTestimonials } from '@/lib/data';
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
   const featuredCoaches = coaches.slice(0, 3);
   return (
     <div className="min-h-screen bg-background">
+      <Navigation />
       {/* Hero Section */}
       <section className="py-20 px-4 bg-gradient-to-b from-sky-50/50 to-background">
         <div className="container mx-auto max-w-4xl text-center">
