@@ -25,7 +25,7 @@ export function CoachCard({ coach }: CoachCardProps) {
         <div className="w-24 h-24 mx-auto mb-4">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={coach.image}
+            src={coach.image.startsWith('/') ? coach.image : `/coaches/${coach.image}`}
             alt={coach.name}
             className="w-full h-full rounded-full object-cover"
           />
