@@ -1,0 +1,18 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+  RUBY_VERSION = "system"
+  MISE_CONFIG_DIR = "/opt/build/repo/apps/web"
+  MISE_TRUSTED_CONFIG_PATHS = "/opt/build/repo/apps/web"
+  # Monorepo: override config path so Netlify will accept apps/web/.next
+  NETLIFY_USE_YARN = "false"
+
+[functions]
+  # no functions for now
+  directory = "netlify/functions"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
