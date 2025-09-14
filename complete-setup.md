@@ -39,7 +39,7 @@
 ## ✅ Already Set Variables:
 - ✅ CALCOM_API_BASE_URL (both contexts)
 - ✅ NTFY_SH_URL (both contexts)
-- ✅ NTFY_SH_TOPIC (both contexts)
+- ✅ NTFY_SH_TOPIC (v2-specific: production/development)
 
 ## 🎯 After Setup Complete:
 
