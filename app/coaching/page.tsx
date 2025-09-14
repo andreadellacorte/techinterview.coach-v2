@@ -12,7 +12,7 @@ export default function CoachingPage() {
             Expert Tech Interview Coaches
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Get personalized coaching from industry leaders who've been in your shoes.
+            Get personalized coaching from industry leaders who&apos;ve been in your shoes.
             Book a session with coaches from top companies like Google, Amazon, and Meta.
           </p>
         </div>

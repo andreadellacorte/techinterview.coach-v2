@@ -99,8 +99,8 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  "The coaching helped me ace my technical interviews and negotiate a 40% salary increase.
-                  The personalized feedback was invaluable."
+                  &ldquo;The coaching helped me ace my technical interviews and negotiate a 40% salary increase.
+                  The personalized feedback was invaluable.&rdquo;
                 </p>
               </CardContent>
             </Card>
@@ -112,8 +112,8 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  "I went from struggling with behavioral questions to confidently leading interview discussions.
-                  Got my dream role in just 6 weeks."
+                  &ldquo;I went from struggling with behavioral questions to confidently leading interview discussions.
+                  Got my dream role in just 6 weeks.&rdquo;
                 </p>
               </CardContent>
             </Card>
@@ -126,7 +126,7 @@ export default function Home() {
         <div className="container mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-bold mb-6">Ready to transform your career?</h2>
           <p className="text-lg mb-8 opacity-90">
-            Join hundreds of engineers who've landed their dream roles with our expert guidance.
+            Join hundreds of engineers who&apos;ve landed their dream roles with our expert guidance.
           </p>
           <Button size="lg" variant="secondary" className="text-lg px-8 py-4">
             Schedule your free consultation

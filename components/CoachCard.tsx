@@ -21,6 +21,7 @@ export function CoachCard({ coach }: CoachCardProps) {
     <Card className="h-full flex flex-col hover:shadow-lg transition-shadow">
       <CardHeader className="text-center">
         <div className="w-24 h-24 mx-auto mb-4">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={coach.image}
             alt={coach.name}
